@@ -1,0 +1,3 @@
+partic;john;particulier@cnam.fr;6 rue du pré 78000 VERSAILLES;03/10/1977;AUDITEUR;21/12/25;21/12/25
+dupont;Sonia;sonia.dupont@cnam.fr;12 rue des jolies chaton 59000 LILLE;09/12/1987;DIRECTION;21/12/25;21/12/25
+SOLENE;Nadia;belleCarotte@chouette.fr;13 rue des choux, PAris;04/07/20;DIRECTION;22/01/08;22/01/08

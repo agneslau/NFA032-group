@@ -1,0 +1,5 @@
+particulier@cnam.fr;particulier;PARTICULIER
+sonia.dupont@cnam.fr;particulier;PARTICULIER
+belleCarotte@chouette.fr;yt56;PARTICULIER
+admin@cnam.fr;admin;ADMIN
+newAd@gmail.com;nuhsf;ADMIN
